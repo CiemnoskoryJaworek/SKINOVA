@@ -1,0 +1,1 @@
+Opcjonalny folder na przyszłe grafiki skrzynek.

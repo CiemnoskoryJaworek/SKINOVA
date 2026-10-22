@@ -1,0 +1,103 @@
+{
+  "cases": [
+    {
+      "id": "whoops",
+      "name": "WHOOPS!",
+      "cost": 400,
+      "color": "#ff973a",
+      "image": "images/cases/whoops.webp"
+    }
+  ],
+  "skins": [
+    {
+      "case": "whoops",
+      "name": "★ Gut Knife | Stained (Field-Tested)",
+      "value": 2200,
+      "weight": 1,
+      "color": "#facc15",
+      "slug": "gut-knife-stained",
+      "image": "images/skins/gut-knife-stained.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "AWP | Queen's Gambit (Battle-Scarred)",
+      "value": 950,
+      "weight": 3,
+      "color": "#f97316",
+      "slug": "awp-queens-gambit",
+      "image": "images/skins/awp-queens-gambit.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+      "value": 650,
+      "weight": 5,
+      "color": "#d946ef",
+      "slug": "deagle-ocean-drive",
+      "image": "images/skins/deagle-ocean-drive.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "FAMAS | Djinn (Well-Worn)",
+      "value": 220,
+      "weight": 12,
+      "color": "#a78bfa",
+      "slug": "famas-djinn",
+      "image": "images/skins/famas-djinn.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "FAMAS | Styx (Field-Tested)",
+      "value": 260,
+      "weight": 11,
+      "color": "#a78bfa",
+      "slug": "famas-styx",
+      "image": "images/skins/famas-styx.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "P90 | Scarab Rush (Well-Worn)",
+      "value": 180,
+      "weight": 15,
+      "color": "#60a5fa",
+      "slug": "p90-scarab-rush",
+      "image": "images/skins/p90-scarab-rush.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "P2000 | Space Race (Minimal Wear)",
+      "value": 150,
+      "weight": 16,
+      "color": "#60a5fa",
+      "slug": "p2000-space-race",
+      "image": "images/skins/p2000-space-race.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "PP-Bizon | Rust Coat (Minimal Wear)",
+      "value": 90,
+      "weight": 20,
+      "color": "#60a5fa",
+      "slug": "pp-bizon-rust-coat",
+      "image": "images/skins/pp-bizon-rust-coat.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "SCAR-20 | Cardiac (Well-Worn)",
+      "value": 280,
+      "weight": 9,
+      "color": "#a78bfa",
+      "slug": "scar20-cardiac",
+      "image": "images/skins/scar20-cardiac.webp"
+    },
+    {
+      "case": "whoops",
+      "name": "USP-S | Monster Mashup (Well-Worn)",
+      "value": 520,
+      "weight": 8,
+      "color": "#d946ef",
+      "slug": "usps-monster-mashup",
+      "image": "images/skins/usps-monster-mashup.webp"
+    }
+  ]
+}
